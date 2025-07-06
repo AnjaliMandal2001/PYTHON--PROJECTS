@@ -21,11 +21,11 @@ This is a simple **Password Generator** built using Python. It allows users to g
 
 ## 📥 Sample Input & 📤 Output
 
-🛡️ Password Generator
-Enter desired password length: 12
-Include uppercase letters? (y/n): y
-Include lowercase letters? (y/n): y
-Include digits? (y/n): y
-Include symbols? (y/n): y
+🛡️ Password Generator  
+Enter desired password length: 12  
+Include uppercase letters? (y/n): y  
+Include lowercase letters? (y/n): y  
+Include digits? (y/n): y  
+Include symbols? (y/n): y  
 
 Generated Password: A8#dL@e1Rp!W
