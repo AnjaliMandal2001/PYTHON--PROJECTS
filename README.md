@@ -16,7 +16,7 @@ This is a simple **Password Generator** built using Python. It allows users to g
 -  Simple and clean Python code
 
  
- ## Concepts Used:
+ ## 🧠  Concepts Used:
 -Random module
 -String handling
 -User input
