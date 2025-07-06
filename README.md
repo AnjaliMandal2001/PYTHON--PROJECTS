@@ -7,11 +7,7 @@ This is a simple **Password Generator** built using Python. It allows users to g
 - Generate strong random passwords
 - Customizable length
 - Option to include:
-    >Uppercase letters
-    >Lowercase letters
-    >Numbers
-    >Special symbols
-
+    Uppercase letters, Lowercase letters, Numbers, Special symbols
 - Displays the generated password.
 -  Simple and clean Python code
 
